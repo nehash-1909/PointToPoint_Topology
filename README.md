@@ -1,2 +1,2 @@
-# network_simulator
-Script that can be used for users new to ns3
+# Point to point newtork topology
+Script used to create point to point network topology in ns3.
